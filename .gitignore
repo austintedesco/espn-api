@@ -13,3 +13,4 @@ build
 dist
 env
 coverage*
+/learning.py
